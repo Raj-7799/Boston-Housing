@@ -36,3 +36,13 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+
+#### Data Distribution
+![Data Distribution](/images/data_distribution.png)
+
+
+#### Performance of Decision trees 
+![Decision tree performance](/images/decision_tree_performance.png)
+
+#### Performance Comparision v/s depth
+![Performance Comparision](/images/performance_comparision.png)
